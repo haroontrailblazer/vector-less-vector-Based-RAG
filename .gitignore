@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+build/
+dist/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Project specific
+*.csv
+!langgraph_results.csv
+!pageindex_results.csv
+# We keep the results as they are part of the benchmark evidence
