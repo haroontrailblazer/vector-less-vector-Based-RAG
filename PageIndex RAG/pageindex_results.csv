@@ -1,113 +1,227 @@
 Question,Expected,Predicted,Score
-"Compare the fiscal deficit as a percentage of GDP across three years: Actuals 2023-24, Revised 2024-25, and Budgeted 2025-26. What is the overall trend?","The fiscal deficit is on a declining trend: it was 5.6% in 2023-24 (Actuals), 4.8% in 2024-25 (Revised), and is targeted at 4.4% in 2025-26.","Here's a clear comparison of the **Fiscal Deficit as a % of GDP** across the three years, sourced directly from the FRBM targets table (Table 9) in the document:
+"Analyze the government's disinvestment performance over the last five years. What is the target for 2025-26, and how does the document characterize the success of achieving these targets in recent years?","Disinvestment targets have not been achieved for five consecutive years. The target for 2025-26 is Rs 47,000 crore, which is lower than the 2024-25 target of Rs 50,000 crore. In 2024-25, the government is estimated to meet only 66% of its target.","Here is a comprehensive analysis of the government's disinvestment performance based on the document:
 
 ---
 
-## 📊 Fiscal Deficit as % of GDP
+## 🏦 Disinvestment Analysis — Union Budget 2025-26
 
-| Year | Fiscal Deficit (% of GDP) |
-|---|---|
-| **Actuals 2023-24** | **5.6%** |
-| **Revised Estimates 2024-25** | **4.8%** |
-| **Budgeted 2025-26** | **4.4%** |
+### What is Disinvestment?
+The document defines disinvestment as **the government selling its stakes in Public Sector Undertakings (PSUs)**. It falls under ""Other Capital Receipts"" in the budget.
 
 ---
 
-## 📉 Overall Trend: Steady Decline
+### 📉 Five-Year Performance at a Glance
 
-The fiscal deficit is on a **clear and consistent downward trajectory**, declining by **1.2 percentage points** over three years:
-
-- **2023-24 → 2024-25:** Fell by **0.8 pp** (from 5.6% to 4.8%), reflecting fiscal tightening after post-COVID spending.
-- **2024-25 → 2025-26:** Projected to fall further by **0.4 pp** (from 4.8% to 4.4%), driven by:
-  - **Receipt growth (+11.1%)** outpacing **expenditure growth (+7.4%)**, creating fiscal headroom.
-  - Higher income tax, GST, and corporate tax collections.
-
-### 🔑 Key Context
-- The fiscal deficit figure is essentially equal to **net borrowings** — keeping it in check reduces the government's debt burden.
-- Alongside this, the **Revenue Deficit** (2.6% → 1.9% → 1.5%) and **Primary Deficit** (2.0% → 1.3% → 0.8%) follow the same downward path, reinforcing the government's **fiscal consolidation** stance.
-- The long-term goal is to bring **outstanding liabilities down to ~50% of GDP by March 2031**.",100.0
-Explain the changes in the compliance mechanism for filing updated tax returns and the associated penalties for the third and fourth years.,"The time-limit to file updated returns for any assessment year is increased from two to four years. The penalty is 60% of the income tax and interest payable for the third year, and 70% for the fourth year.","Here's a clear breakdown of the changes to the compliance mechanism for updated tax returns as proposed in the Union Budget 2025-26:
-
----
-
-## 📋 Updated Tax Returns – Compliance Mechanism Changes
-
-### 🔄 Key Change: Extended Time Limit
-The time limit for filing **updated returns** for any assessment year has been **increased from 2 years to 4 years**. This gives taxpayers a longer window to voluntarily correct omissions or errors in their tax filings.
-
----
-
-### 💰 Penalty Structure for the Extended Period
-
-| Year | Penalty |
-|------|---------|
-| **3rd Year** | **60%** of income tax and interest payable |
-| **4th Year** | **70%** of income tax and interest payable |
-
----
-
-### 🔍 Key Takeaways
-
-- **Years 1 & 2** were already covered under the earlier provision (with lower penalties), and that framework remains.
-- The **new 3rd and 4th year window** comes at a significantly higher cost — 60% and 70% surcharges respectively — reflecting the intent to incentivize *early* compliance while still offering a corrective mechanism for late filers.
-- The penalty is calculated on the **total of income tax and interest** that would be payable for the relevant assessment year.
-- This change effectively discourages deliberate delay while still providing a safety valve for taxpayers who may have missed earlier deadlines.
-
-In summary, while the Budget 2025-26 expands the compliance window generously, it uses **steeply escalating penalties** in the third and fourth years to deter misuse and ensure the provision is used as a genuine correction tool rather than a tax deferral strategy.",100.0
-"Which ministry saw the most significant percentage increase in its allocation for 2025-26 compared to the 2024-25 Revised Estimates, and what was that percentage?","The Ministry of Jal Shakti saw the most significant increase, with its allocation rising by 93.0% (from Rs 51,558 crore to Rs 99,503 crore).","Based on **Table 5** (Ministry-wise expenditure), the **Ministry of Jal Shakti** saw the most significant percentage increase among the top ministries — a massive **93.0% jump** from the 2024-25 Revised Estimates to the 2025-26 Budget Estimates.
-
-| Ministry | RE 2024-25 (₹ crore) | BE 2025-26 (₹ crore) | % Change |
+| Year | Budget Target (₹ crore) | Revised/Actual (₹ crore) | Achievement |
 |---|---|---|---|
-| **Jal Shakti** | **51,558** | **99,503** | **+93.0%** |
-| Housing & Urban Affairs | 63,670 | 96,777 | +52.0% |
-| Education | 1,14,054 | 1,28,650 | +12.8% |
+| 2020-21 to 2022-23 | *(declining each year)* | *(missed each year)* | Not achieved |
+| **2023-24** | — | **₹33,122 crore** *(Actuals)* | Not achieved vs target |
+| **2024-25** | ₹50,000 crore | **₹33,000 crore** *(Revised Est.)* | **~66% of target** |
+| **2025-26** | **₹47,000 crore** | — | Target set |
 
-**Why such a large jump?** The document explains that the 2024-25 Revised Estimate of ₹51,558 crore was drastically lower than the original budget of ₹98,714 crore — primarily due to significant **underspending on the Jal Jeevan Mission**. With the 2025-26 allocation restored to ₹99,503 crore, the percentage increase over the deflated RE looks exceptionally high.
-
-In essence, the 93% increase is partly a correction for the prior year's underspending rather than a purely new policy push.",100.0
-"What is the total estimated expenditure on subsidies for 2025-26, and which two components make up approximately 87% of this total?","The total estimated expenditure on subsidies is Rs 4,26,216 crore. Food subsidy (Rs 2,03,420 crore) and fertiliser subsidy (Rs 1,67,887 crore) together constitute 87% of the total.","Here's a clear answer based on the document:
-
-### Expenditure on Subsidies – 2025-26
-
-- **Total estimated subsidy expenditure: ₹4,26,216 crore**
-
-The two largest components, which together constitute **87% of the total subsidy bill**, are:
-
-| Subsidy | Amount (₹ crore) | Share |
-|---|---|---|
-| **Food Subsidy** | 2,03,420 | ~48% |
-| **Fertiliser Subsidy** | 1,67,887 | ~39% |
-| **Combined** | **3,71,307** | **~87%** |
-
-For context, the remaining subsidies include interest subsidy (₹27,840 crore), LPG subsidy (₹12,100 crore, ~3%), and other subsidies (₹14,969 crore). The total subsidy expenditure is broadly similar to the revised estimate for 2024-25, reflecting a marginal decline of **0.4%**.",100.0
-"What is the 2025-26 allocation for the Jal Jeevan Mission, and how does it compare to the Revised Estimate of 2024-25? Why was the 2024-25 RE so low?","The 2025-26 allocation is Rs 67,000 crore, which is a 195.2% increase over the 2024-25 Revised Estimate of Rs 22,694 crore. The 2024-25 RE was significantly lower than its original budget due to underspending.","Here's a complete picture of the **Jal Jeevan Mission (JJM)** budget figures from the document:
+> *Note: A disinvestment chart (Figure on page 3) in the document visually plots targets vs. actuals over the years.*
 
 ---
 
-### 📊 Allocation Comparison
+### 🎯 Target for 2025-26
+- The disinvestment target is set at **₹47,000 crore** — a **₹3,000 crore reduction** from the 2024-25 budget estimate of ₹50,000 crore.
+- Against the 2024-25 **revised estimate** of ₹33,000 crore, the 2025-26 target represents a jump of **42.4%**.
 
-| Year | Amount (Rs crore) |
+---
+
+### 📋 How the Document Characterizes Performance
+
+The document is notably candid and critical in three key statements:
+
+1. **Repeated Failure to Meet Targets:**
+   > *""Disinvestment targets have reduced for the **fifth consecutive year** and have **not been achieved in any of these years**.""*
+
+2. **2024-25 Shortfall:**
+   > *""In 2024-25, the government is estimated to meet **only 66%** of its disinvestment target.""*
+
+3. **Impact on Overall Receipts:**
+   > *""Revised estimates for 2024-25 are 24.4% lower than the budgeted amount for that year. **Lower receipts are estimated due to underachievement of disinvestment targets**.""*
+
+---
+
+### 🔑 Key Takeaways
+
+| Dimension | Observation |
 |---|---|
-| Actuals 2023-24 | 69,992 |
-| Budget Estimate 2024-25 | 70,163 |
-| **Revised Estimate 2024-25** | **22,694** |
-| **Budget Estimate 2025-26** | **67,000** |
-| % Change (RE 2024-25 → BE 2025-26) | **+195.2%** |
+| **Trend** | Targets have been **steadily lowered** for 5 straight years |
+| **Execution** | Targets have been **consistently missed** across all five years |
+| **2025-26 Target** | ₹47,000 crore — **modest and conservative** relative to past ambitions |
+| **Budget Impact** | Persistent underperformance has dragged down **total capital receipts**, widening the gap between budget estimates and actuals |
+
+In essence, the document paints a picture of **structural underperformance** in disinvestment — a policy that has been progressively scaled back yet still remains unmet — raising questions about the government's execution capability and appetite for PSU stake sales.",100.0
+"Summarize all major initiatives proposed for MSMEs and micro-enterprises in the 2025-26 budget, including credit guarantees, classification changes, and specific financial instruments.","Key initiatives include: (i) Doubling investment and turnover limits for MSME classification, (ii) Increasing credit guarantee cover to Rs 10 crore for small enterprises and Rs 20 crore for startups and exporters, and (iii) Providing 10 lakh UPI-linked credit cards with a Rs 5 lakh limit for micro-enterprises registered on the Udyam portal.","Here is a comprehensive summary of all major MSME and micro-enterprise initiatives in the Union Budget 2025-26:
 
 ---
 
-### 🔍 Key Findings
+## 🏭 MSME & Micro-Enterprise Initiatives — Budget 2025-26
 
-1. **2025-26 Allocation**: Rs **67,000 crore** — broadly in line with the original budget of 2024-25 (Rs 70,163 crore) and the actuals of 2023-24 (Rs 69,992 crore).
-
-2. **The 2024-25 RE was sharply slashed** to just Rs **22,694 crore** — less than one-third of what was budgeted. This is the reason for the massive 195.2% jump from the RE to the 2025-26 BE; the base is artificially low.
-
-3. **Why was the 2024-25 RE so low?** The document identifies it as a case of **significant underspending**, not a deliberate policy cut. It explicitly states:
-   - The overall reduction in Centrally Sponsored Scheme spending in 2024-25 RE (down 17.9% from BE) was **""primarily due to a reduction in Jal Jeevan Mission and Pradhan Mantri Awas Yojana.""**
-   - The Ministry of Jal Shakti's RE fell from Rs 98,714 crore to just Rs 51,558 crore, and **""this underspending is mainly due to Jal Jeevan Mission.""**
-
-   The document does **not specify the root causes** of the underspending (e.g., implementation delays, state-level absorption issues, or fund utilisation bottlenecks), but the scale of the shortfall (~Rs 47,000 crore below budget) strongly suggests execution or fund-release challenges at the ground level.
+### 1. 📈 Revised MSME Classification Limits
+- **Investment and turnover thresholds** for classifying enterprises as MSMEs will be **at least doubled**.
+- This expansion will bring more businesses under the MSME umbrella, enabling them to access government support, subsidies, and credit schemes.
 
 ---
 
-**In summary:** The 2024-25 RE was anomalously low due to massive underspending on JJM, not a policy reversal. The 2025-26 allocation of Rs 67,000 crore signals a restoration of normal spending levels for the mission.",100.0
+### 2. 🛡️ Enhanced Credit Guarantee Cover
+The credit guarantee cover has been significantly increased across three categories:
+
+| Category | Previous Limit | New Limit |
+|---|---|---|
+| Micro & Small Enterprises | ₹5 crore | **₹10 crore** |
+| Start-ups | ₹10 crore | **₹20 crore** |
+| Exporter MSMEs | — | **Up to ₹20 crore** |
+
+This directly reduces collateral risk for lenders and is intended to unlock formal credit for smaller businesses.
+
+---
+
+### 3. 💳 Udyam Credit Cards for Micro Enterprises
+- **10 lakh credit cards** with a **credit limit of ₹5 lakh each** will be issued to micro enterprises registered on the **Udyam portal** within the first year of the scheme.
+- Provides quick, structured access to working capital for the smallest businesses.
+
+---
+
+### 4. 🏪 PM SVANidhi Scheme — Revamp for Street Vendors (Micro-Enterprises)
+- The PM SVANidhi scheme (affordable loans for street vendors) will be **revamped** to provide:
+  - **UPI-linked credit cards** with a ₹30,000 limit
+  - **Enhanced bank loans**
+  - **Capacity-building support**
+
+---
+
+### 5. 👩‍💼 Loans for First-Time Entrepreneurs
+- A new scheme will provide **loans up to ₹2 crore** to **5 lakh first-time entrepreneurs** from women, Scheduled Castes, and Scheduled Tribes — a segment that heavily overlaps with the micro-enterprise sector.
+
+---
+
+### Summary of Key Financial Numbers
+
+| Instrument | Amount/Benefit |
+|---|---|
+| Credit guarantee for micro & small enterprises | Up to ₹10 crore |
+| Credit guarantee for exporter MSMEs | Up to ₹20 crore |
+| Udyam credit cards (micro enterprises) | 10 lakh cards @ ₹5 lakh each |
+| PM SVANidhi UPI credit card limit | ₹30,000 per street vendor |
+| First-time entrepreneur loans | ₹2 crore per beneficiary (5 lakh recipients) |
+
+---
+
+Taken together, these measures aim to **widen access to formal credit**, **reduce barriers to classification**, and **introduce targeted financial instruments** for micro-enterprises across urban and rural India.",100.0
+Explain the shift from customs duty to the Agriculture Infrastructure and Development Cess (AIDC) as mentioned in the Finance Bill. What is the stated impact of this shift on the revenue shared with states?,"While the overall tax on items like solar cells and motor vehicles remains similar, there is a shift from customs duty to AIDC cess. This results in a lower proportion of revenue being shared with states because cesses are not part of the shareable tax pool.","Here is a clear breakdown of what the document says on this topic:
+
+---
+
+## The Customs Duty → AIDC Shift
+
+### What Changed
+Under the Finance Bill 2025-26, the government **reduced customs duty** on certain items while simultaneously **introducing the Agriculture Infrastructure and Development Cess (AIDC)**. The items explicitly mentioned include **solar cells** and **motor vehicles**.
+
+The document notes that:
+> *""The overall tax has remained similar to earlier levels.""*
+
+In other words, the **total tax burden on the consumer/importer is broadly unchanged** — the government has simply restructured *how* that tax is collected, replacing part of the customs duty with the AIDC.
+
+---
+
+### Impact on Revenue Shared with States
+
+This is the critical fiscal consequence of the shift. The document explicitly states:
+
+> *""However, there has been a shift from customs duty to cess, resulting in a **lower proportion to be shared with states**.""*
+
+Here's why this matters:
+
+| Tax Type | Shared with States? |
+|---|---|
+| **Customs Duty** | ✅ Yes — forms part of the divisible pool under the Finance Commission's tax devolution formula |
+| **Cess (AIDC)** | ❌ No — cesses are **excluded** from the divisible pool and accrue entirely to the Centre |
+
+By converting a portion of customs duty revenue into AIDC cess revenue, the **Centre retains a larger share** of the total tax collection, while **states receive proportionally less** even though the headline tax rate on goods hasn't changed.
+
+---
+
+### In Summary
+This is a fiscal architecture move: by keeping consumer-facing tax rates stable but routing more revenue through a cess (which bypasses state devolution), the Centre effectively **strengthens its own revenue position at the cost of states' share** in the tax pool — a pattern that has drawn attention in previous budgets as well (e.g., fuel cesses).",100.0
+Describe the new three-year pipeline requirement for infrastructure ministries and the specific maritime and aviation infrastructure missions announced. What are the targets for these missions?,"Infrastructure ministries must formulate a three-year pipeline of PPP projects. A Maritime Development Fund (Rs 25,000 crore corpus, 49% govt contribution) will be set up. A modified UDAN scheme aims to connect 120 new destinations and carry 4 crore passengers in the next 10 years.","Here's a detailed breakdown of the three areas you asked about from the Union Budget 2025-26:
+
+---
+
+## 📋 Three-Year PPP Project Pipeline
+
+Each **infrastructure-related ministry** is required to formulate a **three-year pipeline of projects** that can be implemented in **Public-Private Partnership (PPP) mode**. This is designed to improve forward planning, attract private investment, and ensure a steady flow of infrastructure projects ready for execution.
+
+---
+
+## ✈️ Aviation Infrastructure — Modified UDAN Scheme
+
+The budget announces a **modified UDAN (Ude Desh ka Aam Naagrik) scheme** for aviation connectivity, with the following targets:
+
+- **120 new destinations** to receive improved connectivity
+- **4 crore (40 million) passengers** to be carried over the **next 10 years**
+
+---
+
+## 🚢 Maritime Infrastructure — Maritime Development Fund
+
+A dedicated **Maritime Development Fund** is announced with the following structure and targets:
+
+- **Total corpus:** ₹25,000 crore
+- **Government contribution:** 49% (the remaining 51% to come from other stakeholders/private sector)
+
+---
+
+### Summary Table
+
+| Mission | Key Target | Financial Commitment |
+|---|---|---|
+| Modified UDAN (Aviation) | 120 new destinations; 4 crore passengers in 10 years | Not separately quantified |
+| Maritime Development Fund | Boost maritime infrastructure | ₹25,000 crore corpus (49% govt.) |
+| PPP Project Pipeline | 3-year rolling pipeline per infrastructure ministry | Supported by 2nd asset monetisation plan (2025–30) |
+
+The PPP pipeline requirement is complemented by a **second asset monetisation plan for 2025–30**, which is intended to unlock value from existing public assets to fund new infrastructure.",100.0
+How does the budget justify the 18.5% increase in allocation for women and children's welfare? Mention the specific linkage to the Pradhan Mantri Awas Yojana and the ownership rules that drive this increase.,"The allocation is Rs 5,65,161 crore. The increase is justified by higher PMAY allocation, as the female head of the family must be the owner or co-owner of the house, thus qualifying the expenditure under women's welfare.","Here is a precise breakdown of how the budget justifies the **18.5% increase** in women and children's welfare allocation:
+
+---
+
+## 📊 Overall Allocation
+
+Programmes for the welfare of **women and children combined** are allocated **₹5,65,161 crore** in 2025-26 — an increase of **18.5%** over the revised estimate (RE) of 2024-25. Within this:
+
+| Category | RE 2024-25 (₹ cr) | BE 2025-26 (₹ cr) | % Change |
+|---|---|---|---|
+| **Welfare of Women** | 3,76,529 | 4,49,029 | **+19.3%** |
+| **Welfare of Children** | 1,00,445 | 1,16,133 | **+15.6%** |
+
+---
+
+## 🏠 The PMAY Linkage — The Primary Driver
+
+The budget **explicitly states** that the increase in the women's welfare allocation is **driven by higher allocation towards the Pradhan Mantri Awas Yojana (PMAY)**. The numbers confirm this:
+
+| PMAY Component | RE 2024-25 (₹ cr) | BE 2025-26 (₹ cr) | % Change |
+|---|---|---|---|
+| PMAY – Rural | 32,426 | 54,832 | **+69.1%** |
+| PMAY – Urban | 15,170 | 23,294 | **+53.6%** |
+| **Combined PMAY** | **47,596** | **78,126** | **+64%** |
+
+This dramatic ~64% jump in PMAY allocation directly inflates the ""welfare of women"" budget line.
+
+---
+
+## 👩 The Ownership Rule — The Structural Justification
+
+The budget provides a clear rationale for why PMAY spending counts as women's welfare expenditure:
+
+> **""Under the Awas Yojana, the female head of the family must be the owner or co-owner of the house.""**
+
+This mandatory **female ownership/co-ownership rule** embedded in PMAY's design means every rupee spent under the scheme is counted as benefiting women, since housing assets are legally vested in their name. As PMAY allocations surge (recovering from a sharp underspend of ~44% in 2024-25), the women's welfare budget correspondingly spikes.
+
+---
+
+## 🔑 In Summary
+
+The 18.5% increase is justified through a **structural accounting linkage**: PMAY's rule requiring female heads of households to be owners/co-owners causes the entire scheme's budget to be tagged under women's welfare. The 2025-26 budget restores PMAY to its full intended scale after a significant underspend the prior year, mechanically producing the headline increase in the women and children welfare figure.",100.0
